@@ -2,6 +2,11 @@
 
 The default Flutter demo application with BLoC pattern
 
+## Screenshots
+
+![ezgif-4-6b6f48f041](https://user-images.githubusercontent.com/93277108/154277700-37f0a8f0-a538-4a30-b7db-2640d146cc5c.gif)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
@@ -16,6 +21,3 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.## Screenshots
 
 
-## Screenshots
-
-![ezgif-4-6b6f48f041](https://user-images.githubusercontent.com/93277108/154277700-37f0a8f0-a538-4a30-b7db-2640d146cc5c.gif)
